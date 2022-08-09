@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{F1B5789A-AECA-4039-BB8E-73493640CD99}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Authorization/ContactOperations.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="77" Column="23" />
+      <File FileName="Startup2.cs" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Authorization/ContactIsOwnerAuthorizationHandler.cs" />
+      <File FileName="Data/SeedData.cs" Line="29" Column="78" />
+      <File FileName="Authorization/ContactAdministratorsAuthorizationHandler.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ContactManager" expanded="True">
+            <Node name="ContactManager" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Authorization" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Contacts" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ContactManager PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
